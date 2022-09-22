@@ -2,11 +2,11 @@ import React, { Fragment } from 'react';
 
 const Saludo = () => {
     return (
-        <Fragment>
+     <Fragment>
 
-       <h2>hola juan</h2>
+    <h2>hola juan</h2>
 
-        </Fragment>
+     </Fragment>
     );
 }
 
